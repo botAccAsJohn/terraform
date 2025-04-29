@@ -1,0 +1,6 @@
+test
+test.pub
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+.terraform
